@@ -3,8 +3,8 @@
     "client_id": 941619598971797554,
     "details": "User ID: 0001",
     "state": "Version: 2.5 (123021)",
-    "largeimagekey": "big",
-    "largeimagetext": "novoline.wtf",
-    "smallimagekey": "small",
-    "smallimagetext": "2.5 (123021)"
+    "large_image_key": "big",
+    "large_image_text": "novoline.wtf",
+    "small_image_key": "small",
+    "small_image_text": "2.5 (123021)"
 }
