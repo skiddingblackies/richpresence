@@ -2,3 +2,4 @@ novo
 rise
 tenacity
 rusherhack
+azura
